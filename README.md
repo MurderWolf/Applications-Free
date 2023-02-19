@@ -55,29 +55,29 @@ If you have lots of slash commands in your server, you can click the profile pic
 
 # Config
 
-{
-    "Bot Token": "",
-    "Prefix": "",
-    "Staff Role ID": "",
-    "Guild ID": "",
-    "Log Channel ID": "",
-    "Application Response Channel ID": "",
+	{
+		"Bot Token": "",
+		"Prefix": "",
+		"Staff Role ID": "",
+		"Guild ID": "",
+		"Log Channel ID": "",
+		"Application Response Channel ID": "",
 
-    "Applications": {
-        "This is the name": ["I'm question 1!", "Question 2!", "And question 3!"],
-        "Example": ["Whats your name?", "How old are you?", "Why do you want to be staff?", "What is your timezone?"]
-    },
+		"Applications": {
+			"This is the name": ["I'm question 1!", "Question 2!", "And question 3!"],
+			"Example": ["Whats your name?", "How old are you?", "Why do you want to be staff?", "What is your timezone?"]
+		},
 
-    "Embed": {
-        "Title": "EXAMPLE: Applications",
-        "Description": "EXAMPLE: Select the application of your choice from the select menu below."
-    },
+		"Embed": {
+			"Title": "EXAMPLE: Applications",
+			"Description": "EXAMPLE: Select the application of your choice from the select menu below."
+		},
 
-    "Status Type (Playing, Watching, Listening) Default is Playing": "Watching",
-    "Status": "applications!",
+		"Status Type (Playing, Watching, Listening) Default is Playing": "Watching",
+		"Status": "applications!",
 
-    "Enable Help Command": "true"
-}
+		"Enable Help Command": "true"
+	}
 
 Most of these are self explanatory.
 
