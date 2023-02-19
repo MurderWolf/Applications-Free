@@ -96,8 +96,14 @@ If your having trouble copying ID's to put in the config, visit this link whic
 This bot is super simple to set up, simply follow these steps:
 
 ➤ Upload all files in "Murder Application Bot Free Version.zip" to your bots hosting.
+
+
 ➤ Fill out details in the config,json file.
+
+
 ➤ Turn the bot on (If your using online hosting, press "Start")
+
+
 ➤ Enjoy the bot 
 
 For the simplicity of setting it up on your end, ensure you have all Privileged Gateway Intents which can be toggled at the Discord Developers Portal
